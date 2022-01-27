@@ -11466,6 +11466,17 @@ section.resume-section .resume-section-content {
   text-transform: uppercase;
 }
 
+.contact{
+  margin-top: 10px;
+  position:relative;
+  margin-bottom: 20px;
+ 
+}
+
+.contact h3{
+  align-items: center;
+ text-align: center;
+}
 
 
 /* .wrapper {
