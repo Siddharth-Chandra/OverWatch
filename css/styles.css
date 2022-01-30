@@ -11395,8 +11395,17 @@ p.lead {
 }
 
 
+.social-icons{
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
 
 .social-icons .social-icon {
+  
   display: inline-flex;
   align-items: center;
   justify-content: center;
@@ -11410,6 +11419,7 @@ p.lead {
 }
 .social-icons .social-icon:last-child {
   margin-right: 0;
+ 
 }
 .social-icons .social-icon:hover {
   background-color: skyblue;
@@ -11477,6 +11487,8 @@ section.resume-section .resume-section-content {
   align-items: center;
  text-align: center;
 }
+
+
 
 
 /* .wrapper {
